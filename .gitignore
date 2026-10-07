@@ -1,0 +1,16 @@
+# Datos privados (NUNCA subir)
+config.py
+session.json
+.env
+
+# Archivos generados al correr el bot
+*.db
+*.log
+debug_screenshot.png
+debug_page.html
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
